@@ -9,6 +9,7 @@ public class prueba {
 	//pobre fernan
 	
 	// Dejen la Cura Soy Justo un MMG Klk\
+	//El titanic
 	
 	public String getName() {
 		return name;
