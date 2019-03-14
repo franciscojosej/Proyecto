@@ -9,6 +9,7 @@ public class prueba {
 	//pobre fernan
 	// Dejen la Cura Soy Justo un MMG Klk\
 	//el UML pa cuando coño
+	// La Crema tengo que irme 
 	
 	public String getName() {
 		return name;
