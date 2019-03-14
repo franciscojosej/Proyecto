@@ -5,7 +5,6 @@ public class prueba {
 
 	public String getName() {
 		return name;
-		
 	}
 
 	public void setName(String nae) {
