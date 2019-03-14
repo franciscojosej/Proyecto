@@ -5,6 +5,7 @@ public class prueba {
 	private int pendejo;
    ///Justo mmg 
 	//MMG tu pendejo (saca deito)
+	//pablo
 	public String getName() {
 		return name;
 	}
