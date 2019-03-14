@@ -2,7 +2,7 @@ package logica;
 
 public class prueba {
 	private String name;
-
+   ///Justo mmg
 	public String getName() {
 		return name;
 	}
@@ -10,6 +10,7 @@ public class prueba {
 	public void setName(String nae) {
 		this.name = nae;
 	}
+	
 	
 
 }
