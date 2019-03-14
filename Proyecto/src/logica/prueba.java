@@ -7,9 +7,8 @@ public class prueba {
 	//MMG tu pendejo (saca deito)
 	//pablo 
 	//pobre fernan
-	
 	// Dejen la Cura Soy Justo un MMG Klk\
-	//El titanic
+	//el UML pa cuando coño
 	
 	public String getName() {
 		return name;
